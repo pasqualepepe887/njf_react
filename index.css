@@ -1,0 +1,1752 @@
+.fotocastello-1-icon {
+  height: 623px;
+  width: 1148px;
+  position: absolute;
+  margin: 0 !important;
+  right: 50px;
+  bottom: -494px;
+  border-radius: var(--br-31xl);
+  object-fit: cover;
+}
+.njf-2024,
+.programma {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+}
+.njf-2024 {
+  line-height: 50px;
+  white-space: nowrap;
+}
+.programma {
+  align-self: stretch;
+  line-height: 31px;
+  display: inline-block;
+  min-width: 119px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  cursor: pointer;
+  z-index: 1;
+}
+.links {
+  width: 119px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) 0 0;
+  box-sizing: border-box;
+}
+.contatti {
+  text-decoration: none;
+  align-self: stretch;
+  position: relative;
+  line-height: 31px;
+  color: inherit;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.links1 {
+  width: 133px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) 0 0;
+  box-sizing: border-box;
+  margin-left: -1px;
+}
+.frame-child {
+  height: 45px;
+  width: 191px;
+  position: relative;
+  border-radius: var(--br-31xl);
+  border: 5px solid var(--color-gold);
+  box-sizing: border-box;
+  display: none;
+}
+.ticket-now {
+  text-decoration: none;
+  width: 137px;
+  position: relative;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+  z-index: 1;
+}
+.rectangle-parent {
+  flex: 1;
+  border-radius: var(--br-31xl);
+  border: 5px solid var(--color-gold);
+  flex-direction: row;
+  padding: 3px var(--padding-3xl) 0;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  margin-left: -1px;
+}
+.navigation-links,
+.program-contacts,
+.rectangle-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.program-contacts {
+  align-self: stretch;
+  flex-direction: row;
+}
+.navigation-links {
+  width: 441px;
+  flex-direction: column;
+  padding: var(--padding-8xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+}
+.festival-title,
+.fotocastello-1-parent,
+.top-navigation {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.festival-title {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.fotocastello-1-parent,
+.top-navigation {
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.top-navigation {
+  flex: 1;
+  padding: 0 0 185px var(--padding-3xl);
+}
+.fotocastello-1-parent {
+  align-self: stretch;
+  padding: 0 var(--padding-4xl) 0 0;
+  position: relative;
+  text-align: left;
+  font-size: 64px;
+  color: var(--color-gold);
+  font-family: var(--font-jomhuria);
+}
+.scroll-1-icon {
+  height: 90.8px;
+  width: 65px;
+  position: absolute;
+  margin: 0 !important;
+  right: 334px;
+  bottom: 107.2px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.nocera-jazz-festival {
+  color: var(--color-gold);
+}
+.seconda-edizione-del-nocera-ja,
+.un-festival-ricco-di-sonorita {
+  display: block;
+}
+.seconda-edizione-del-container {
+  margin: 0;
+  width: 744px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-left: var(--padding-xl);
+  z-index: 1;
+}
+.content,
+.edition {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.edition {
+  flex: 1;
+  justify-content: flex-end;
+  padding: 0 0 405px;
+}
+.content {
+  width: 1022px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  position: relative;
+}
+.image-icon {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  border-radius: var(--br-31xl);
+  width: 325px;
+  height: 400px;
+  object-fit: cover;
+}
+.jeremy-pelt-quintet {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.day {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm) 0 var(--padding-6xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.lunedi-1-luglio {
+  align-self: stretch;
+  position: relative;
+  color: var(--color-white);
+}
+.date-content,
+.pelt-date {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.date-content {
+  width: 378px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.pelt-date {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.jalen-baker-,
+.jared-spears-,
+.jeremy-pelt-,
+.leighton-harrell-,
+.misha-mendelenko- {
+  display: block;
+}
+.jeremy-pelt-container {
+  margin: 0;
+  align-self: stretch;
+  height: 300px;
+  position: relative;
+  font-size: var(--font-size-31xl);
+  line-height: 50px;
+  color: var(--color-gainsboro);
+  display: inline-block;
+  flex-shrink: 0;
+}
+.pelt-details {
+  position: absolute;
+  top: 0;
+  left: 268px;
+  width: 568px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 38px;
+  max-width: 100%;
+}
+.jeremy-pelt {
+  width: 836px;
+  height: 463px;
+  position: relative;
+  max-width: 100%;
+}
+.carmen-souza-trio {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.day1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm) 0 var(--padding-6xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.mercoled-3-luglio {
+  align-self: stretch;
+  position: relative;
+  color: var(--color-white);
+}
+.date-content1,
+.souza-date {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.date-content1 {
+  width: 378px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.souza-date {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-7xl);
+  box-sizing: border-box;
+}
+.carmen-souza-,
+.elias-kacomanolis-batteria,
+.theo-pascal- {
+  display: block;
+}
+.carmen-souza-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-31xl);
+  line-height: 50px;
+  color: var(--color-gainsboro);
+}
+.image,
+.souza-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.souza-details {
+  width: 568px;
+  align-items: flex-end;
+  gap: 44px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 110%;
+}
+.image {
+  width: 521px;
+  align-items: flex-start;
+  padding: 40px 0 0;
+  box-sizing: border-box;
+  min-width: 521px;
+  max-width: 100%;
+}
+.image-icon1 {
+  width: 325px;
+  position: relative;
+  border-radius: var(--br-31xl);
+  max-height: 100%;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.souza {
+  flex-direction: row;
+  justify-content: flex-start;
+  row-gap: 20px;
+}
+.first-artist,
+.program-content,
+.second-artist,
+.souza {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.second-artist {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.first-artist,
+.program-content {
+  justify-content: flex-start;
+}
+.first-artist {
+  flex: 1;
+  flex-direction: column;
+  gap: 52px;
+}
+.program-content {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 var(--padding-46xl) var(--padding-9xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-gold);
+  font-family: var(--font-jomhuria);
+}
+.cuban-night1 {
+  margin: 0;
+  width: 744px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.image-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  width: 325px;
+  height: 400px;
+  object-fit: cover;
+}
+.omar-sosa-ft {
+  width: 357px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.artist-name {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.domenica-7-luglio {
+  width: 378px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.sosa-date {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-7xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  color: var(--color-white);
+}
+.omar-sosa-piano {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.ernesttico-percussioni {
+  margin: 0;
+}
+.omar-sosa-piano-container {
+  align-self: stretch;
+  height: 300px;
+  position: relative;
+  font-size: var(--font-size-31xl);
+  line-height: 50px;
+  color: var(--color-gainsboro);
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.sosa-details {
+  position: absolute;
+  top: 32px;
+  left: 271px;
+  width: 568px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 12px;
+  max-width: 100%;
+}
+.image1 {
+  height: 536px;
+  width: 839px;
+  position: relative;
+  max-width: 100%;
+}
+.omar-details {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  font-size: var(--font-size-41xl);
+  color: var(--color-gold);
+}
+.cuban-night,
+.night-title,
+.omar-details {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.night-title {
+  width: 909px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 54px;
+}
+.cuban-night {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.ana-carla-maza {
+  width: 357px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 2;
+}
+.date-content2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.domenica-7-luglio1 {
+  width: 378px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.date-content3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-7xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  color: var(--color-white);
+}
+.ana-carla-maza1 {
+  align-self: stretch;
+  height: 150px;
+  position: relative;
+  font-size: var(--font-size-31xl);
+  line-height: 50px;
+  color: var(--color-gainsboro);
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.maza-date,
+.maza-details {
+  display: flex;
+  flex-direction: column;
+}
+.maza-date {
+  width: 568px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4.5px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 110%;
+}
+.maza-details {
+  width: 521px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 25px;
+  box-sizing: border-box;
+  min-width: 521px;
+  max-width: 100%;
+}
+.image-icon3 {
+  width: 325px;
+  position: relative;
+  border-radius: var(--br-31xl);
+  max-height: 100%;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  z-index: 2;
+}
+.carla-maza {
+  flex-direction: row;
+  align-items: flex-end;
+  row-gap: 20px;
+  margin-top: -104px;
+  font-size: var(--font-size-41xl);
+  color: var(--color-gold);
+}
+.carla-maza,
+.omar-sosa,
+.third-artist {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.omar-sosa {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.third-artist {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xs) 0 13px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-101xl);
+  color: var(--color-white);
+  font-family: var(--font-jomhuria);
+}
+.brasilian-night {
+  margin: 0;
+  width: 744px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.night-title1 {
+  width: 1102px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.image-content-icon,
+.image-content-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-31xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 325px;
+  height: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 400px;
+}
+.dea-gil {
+  width: 357px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.date-content4 {
+  width: 553px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.venerd-12-luglio {
+  width: 378px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.date-content5 {
+  width: 554px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  color: var(--color-white);
+}
+.dea-voce,
+.mauricio-melo-batteria,
+.raul-balardin-chitarra {
+  margin: 0;
+}
+.dea-voce-raul-container {
+  align-self: stretch;
+  height: 300px;
+  position: relative;
+  font-size: var(--font-size-31xl);
+  line-height: 50px;
+  color: var(--color-gainsboro);
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.gil-date {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 568px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.philippe-baden-powell {
+  position: absolute;
+  top: 788px;
+  left: 110px;
+  display: inline-block;
+  width: 357px;
+  height: 60px;
+}
+.venerd-12-luglio1 {
+  width: 378px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.date-content6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-9xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.blank-line,
+.blank-line1,
+.mauricio-melo-batteria-mateus,
+.philippe-b-powell {
+  display: block;
+}
+.philippe-b-powell-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-31xl);
+  line-height: 50px;
+  color: var(--color-gainsboro);
+  z-index: 1;
+}
+.baden-date {
+  position: absolute;
+  top: 908px;
+  left: 0;
+  width: 568px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+  color: var(--color-white);
+}
+.jacques-paula {
+  width: 357px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 3;
+}
+.date-content7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 29px 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.venerd-12-luglio2 {
+  width: 378px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.date-content8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-7xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.aggiungiper-jacques {
+  align-self: stretch;
+  height: 150px;
+  position: relative;
+  font-size: var(--font-size-31xl);
+  line-height: 50px;
+  color: var(--color-gainsboro);
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.morelenbaum-add {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  max-width: 100%;
+  color: var(--color-white);
+}
+.image-child,
+.morelenbaum-date {
+  flex: 1;
+  max-width: 100%;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.morelenbaum-date {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.image-child {
+  align-self: stretch;
+  position: relative;
+  border-radius: var(--br-31xl);
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 3;
+}
+.image3 {
+  height: 414px;
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-sm);
+  box-sizing: border-box;
+  min-width: 325px;
+  max-width: 100%;
+  margin-left: -53px;
+}
+.gil-baden,
+.morelenbaum {
+  position: absolute;
+  max-width: 100%;
+}
+.morelenbaum {
+  top: 329px;
+  left: 12px;
+  width: 840px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  row-gap: 20px;
+}
+.gil-baden {
+  top: 32px;
+  left: 263px;
+  width: 852px;
+  height: 1268px;
+}
+.brazilian-content {
+  align-self: stretch;
+  height: 1300px;
+  position: relative;
+  max-width: 100%;
+  font-size: var(--font-size-41xl);
+  color: var(--color-gold);
+}
+.brazilian,
+.brazilian-details {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.brazilian-details {
+  flex: 1;
+  flex-direction: column;
+  gap: 90px;
+}
+.brazilian {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 18px 57px var(--padding-4xs);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-101xl);
+  color: var(--color-white);
+  font-family: var(--font-jomhuria);
+}
+.james-brandon-lewis {
+  width: 357px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.trio-name {
+  width: 553px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.sabato-13-luglio {
+  width: 378px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.date-content9 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-9xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.chad-taylor-batteria,
+.james-brandon-lewis1 {
+  display: block;
+}
+.james-brandon-lewis-container {
+  margin: 0;
+  align-self: stretch;
+  height: 300px;
+  position: relative;
+  font-size: var(--font-size-31xl);
+  line-height: 50px;
+  color: var(--color-gainsboro);
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.lewis-date {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-9xs);
+  max-width: 100%;
+  color: var(--color-white);
+}
+.lewis-date,
+.name,
+.name-date {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.name {
+  width: 568px;
+  align-items: flex-end;
+  gap: var(--gap-2xs);
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 110%;
+}
+.name-date {
+  width: 518px;
+  align-items: flex-start;
+  padding: var(--padding-xs) 0 0;
+  box-sizing: border-box;
+  min-width: 518px;
+  max-width: 100%;
+}
+.image-icon4 {
+  width: 325px;
+  position: relative;
+  border-radius: var(--br-31xl);
+  max-height: 100%;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.details {
+  position: absolute;
+  top: 0;
+  left: 263px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: 20px;
+  max-width: 100%;
+}
+.sands-trio-child {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  max-height: 100%;
+  width: 325px;
+  object-fit: cover;
+  z-index: 2;
+}
+.christian-sands-trio {
+  width: 357px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 2;
+}
+.trio-info {
+  width: 553px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.marted-16-luglio {
+  width: 378px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.trio-date {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-9xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.christian-sands-piano,
+.ryan-sands-batteria,
+.yasushi-nakamura-basso {
+  margin: 0;
+}
+.christian-sands-piano-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-31xl);
+  line-height: 50px;
+  color: var(--color-gainsboro);
+  z-index: 3;
+}
+.trio-details {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+  max-width: 100%;
+  color: var(--color-white);
+}
+.sands-trio,
+.trio-container {
+  position: absolute;
+  max-width: 100%;
+}
+.trio-container {
+  top: 52px;
+  left: 263px;
+  width: 568px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 28px;
+}
+.sands-trio {
+  top: 455px;
+  left: 0;
+  width: 831px;
+  height: 400px;
+}
+.lewis-content {
+  align-self: stretch;
+  height: 855px;
+  position: relative;
+  max-width: 100%;
+}
+.francesca-tandoi-trio {
+  width: 357px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.tandoi-name {
+  width: 545px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.sabato-20-luglio {
+  width: 378px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.tandoi-date {
+  width: 546px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.francesca-tandoi-voce,
+.giovanni-campanella-batteria,
+.stefano-senni-basso {
+  margin: 0;
+}
+.francesca-tandoi-voce-container {
+  align-self: stretch;
+  height: 300px;
+  position: relative;
+  font-size: var(--font-size-31xl);
+  line-height: 50px;
+  color: var(--color-gainsboro);
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.tandoi-performance {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+  color: var(--color-white);
+}
+.tandoi-details,
+.tandoi-info,
+.tandoi-performance {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.tandoi-details {
+  width: 568px;
+  align-items: flex-end;
+  gap: 17px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 110%;
+}
+.tandoi-info {
+  width: 518px;
+  align-items: flex-start;
+  padding: 39px 0 0;
+  box-sizing: border-box;
+  min-width: 518px;
+  max-width: 100%;
+}
+.tandoi-container-child {
+  width: 325px;
+  position: relative;
+  border-radius: var(--br-31xl);
+  max-height: 100%;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.lewis-trio,
+.tandoi-container {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.tandoi-container {
+  flex-direction: row;
+  align-items: flex-start;
+  row-gap: 20px;
+}
+.lewis-trio {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 87px;
+}
+.hill-container-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  width: 325px;
+  height: 400px;
+  object-fit: cover;
+  z-index: 2;
+}
+.judith-hill {
+  height: 88px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.hill-performance {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs) 0 var(--padding-4xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.gioved-25-luglio {
+  align-self: stretch;
+  position: relative;
+  color: var(--color-white);
+  z-index: 3;
+  margin-top: -37px;
+}
+.hill-details,
+.hill-name {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.hill-name {
+  width: 378px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.hill-details {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-5xl);
+  box-sizing: border-box;
+}
+.backing-vocals,
+.john-staten-batteria,
+.judith-hill-voce,
+.michiko-hill-organo,
+.peewee-hill-basso {
+  display: block;
+}
+.judith-hill-voce-container {
+  margin: 0;
+  align-self: stretch;
+  height: 386px;
+  position: relative;
+  font-size: var(--font-size-31xl);
+  line-height: 50px;
+  color: var(--color-gainsboro);
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.hill-info {
+  position: absolute;
+  top: 0;
+  left: 274px;
+  width: 568px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.hill-container {
+  width: 842px;
+  height: 497px;
+  position: relative;
+  max-width: 100%;
+}
+.lewis-sands {
+  width: 1106px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-gold);
+  font-family: var(--font-jomhuria);
+}
+.programma-child {
+  width: 1280px;
+  height: 81px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  max-width: 100%;
+}
+.programma1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-46xl) 63px 0 75px;
+  box-sizing: border-box;
+  gap: 106px;
+  max-width: 100%;
+}
+.frame-item,
+.mb-edited-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+.frame-item {
+  max-height: 100%;
+  object-fit: contain;
+  margin-top: -2px;
+}
+.mb-edited-icon {
+  height: 60px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image-left {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  min-width: 253px;
+  max-width: 100%;
+}
+.sofy-removebg-preview-icon {
+  height: 100px;
+  width: 104px;
+  position: relative;
+  object-fit: cover;
+}
+.image-container,
+.images {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.images {
+  width: 541px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 48px;
+}
+.image-container {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-4xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.home-page,
+.vector-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vector-parent {
+  align-self: stretch;
+  gap: 29px;
+  max-width: 100%;
+}
+.home-page {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #092b3a 28.76%, #1976a0);
+  overflow-y: auto;
+  padding: 16px 0 var(--padding-18xl);
+  box-sizing: border-box;
+  gap: 107px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+  font-family: var(--font-jomhuria);
+}
+@media screen and (max-width: 1200px) {
+  .brazilian-details {
+    gap: 45px;
+  }
+  .brazilian {
+    padding-bottom: var(--padding-18xl);
+    box-sizing: border-box;
+  }
+  .lewis-trio {
+    gap: 43px;
+  }
+  .programma1 {
+    padding-top: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .jeremy-pelt-quintet,
+  .lunedi-1-luglio,
+  .seconda-edizione-del-container {
+    font-size: var(--font-size-29xl);
+  }
+  .jeremy-pelt-container {
+    font-size: var(--font-size-21xl);
+    line-height: 40px;
+  }
+  .carmen-souza-trio,
+  .mercoled-3-luglio {
+    font-size: var(--font-size-29xl);
+  }
+  .carmen-souza-container {
+    font-size: var(--font-size-21xl);
+    line-height: 40px;
+  }
+  .image,
+  .image-icon1 {
+    flex: 1;
+  }
+  .souza {
+    flex-wrap: wrap;
+  }
+  .program-content {
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+  .cuban-night1,
+  .domenica-7-luglio,
+  .omar-sosa-ft {
+    font-size: var(--font-size-29xl);
+  }
+  .omar-sosa-piano-container {
+    font-size: var(--font-size-21xl);
+    line-height: 40px;
+  }
+  .ana-carla-maza,
+  .domenica-7-luglio1 {
+    font-size: var(--font-size-29xl);
+  }
+  .ana-carla-maza1 {
+    font-size: var(--font-size-21xl);
+    line-height: 40px;
+  }
+  .image-icon3,
+  .maza-details {
+    flex: 1;
+  }
+  .carla-maza {
+    flex-wrap: wrap;
+  }
+  .brasilian-night,
+  .dea-gil,
+  .venerd-12-luglio {
+    font-size: var(--font-size-29xl);
+  }
+  .dea-voce-raul-container {
+    font-size: var(--font-size-21xl);
+    line-height: 40px;
+  }
+  .philippe-baden-powell,
+  .venerd-12-luglio1 {
+    font-size: var(--font-size-29xl);
+  }
+  .philippe-b-powell-container {
+    font-size: var(--font-size-21xl);
+    line-height: 40px;
+  }
+  .jacques-paula,
+  .venerd-12-luglio2 {
+    font-size: var(--font-size-29xl);
+  }
+  .aggiungiper-jacques {
+    font-size: var(--font-size-21xl);
+    line-height: 40px;
+  }
+  .image-child {
+    align-self: stretch;
+    width: auto;
+  }
+  .image3 {
+    flex: 1;
+  }
+  .morelenbaum {
+    flex-wrap: wrap;
+  }
+  .gil-baden {
+    height: auto;
+    min-height: 1268;
+  }
+  .brazilian-content {
+    height: auto;
+    min-height: 1300;
+  }
+  .brazilian {
+    padding-bottom: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+  .james-brandon-lewis,
+  .sabato-13-luglio {
+    font-size: var(--font-size-29xl);
+  }
+  .james-brandon-lewis-container {
+    font-size: var(--font-size-21xl);
+    line-height: 40px;
+  }
+  .image-icon4,
+  .name-date {
+    flex: 1;
+  }
+  .details {
+    flex-wrap: wrap;
+  }
+  .christian-sands-trio,
+  .marted-16-luglio {
+    font-size: var(--font-size-29xl);
+  }
+  .christian-sands-piano-container {
+    font-size: var(--font-size-21xl);
+    line-height: 40px;
+  }
+  .lewis-content {
+    height: auto;
+    min-height: 855;
+  }
+  .francesca-tandoi-trio,
+  .sabato-20-luglio {
+    font-size: var(--font-size-29xl);
+  }
+  .francesca-tandoi-voce-container {
+    font-size: var(--font-size-21xl);
+    line-height: 40px;
+  }
+  .tandoi-container-child,
+  .tandoi-info {
+    flex: 1;
+  }
+  .tandoi-container {
+    flex-wrap: wrap;
+  }
+  .gioved-25-luglio,
+  .judith-hill {
+    font-size: var(--font-size-29xl);
+  }
+  .judith-hill-voce-container {
+    font-size: var(--font-size-21xl);
+    line-height: 40px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .edition {
+    padding-bottom: 263px;
+    box-sizing: border-box;
+  }
+  .souza-details {
+    gap: var(--gap-3xl);
+  }
+  .image {
+    min-width: 100%;
+  }
+  .first-artist {
+    gap: var(--gap-7xl);
+  }
+  .program-content {
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+  .maza-details,
+  .morelenbaum-date {
+    min-width: 100%;
+  }
+  .image3 {
+    margin-left: 0;
+  }
+  .brazilian-details {
+    gap: var(--gap-3xl);
+  }
+  .name-date,
+  .tandoi-info {
+    min-width: 100%;
+  }
+  .lewis-trio {
+    gap: var(--gap-3xl);
+  }
+  .programma1 {
+    gap: var(--gap-34xl);
+    padding-left: var(--padding-18xl);
+    padding-right: 31px;
+    box-sizing: border-box;
+  }
+  .images {
+    gap: var(--gap-5xl);
+  }
+  .home-page {
+    gap: var(--gap-34xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .jeremy-pelt-quintet,
+  .lunedi-1-luglio,
+  .seconda-edizione-del-container {
+    font-size: var(--font-size-17xl);
+  }
+  .jeremy-pelt-container {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .carmen-souza-trio,
+  .mercoled-3-luglio {
+    font-size: var(--font-size-17xl);
+  }
+  .carmen-souza-container {
+    line-height: 30px;
+  }
+  .carmen-souza-container,
+  .cuban-night1 {
+    font-size: var(--font-size-11xl);
+  }
+  .domenica-7-luglio,
+  .omar-sosa-ft {
+    font-size: var(--font-size-17xl);
+  }
+  .omar-sosa-piano-container {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .night-title {
+    gap: var(--gap-8xl);
+  }
+  .ana-carla-maza,
+  .domenica-7-luglio1 {
+    font-size: var(--font-size-17xl);
+  }
+  .ana-carla-maza1 {
+    line-height: 30px;
+  }
+  .ana-carla-maza1,
+  .brasilian-night {
+    font-size: var(--font-size-11xl);
+  }
+  .dea-gil,
+  .venerd-12-luglio {
+    font-size: var(--font-size-17xl);
+  }
+  .dea-voce-raul-container {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .philippe-baden-powell,
+  .venerd-12-luglio1 {
+    font-size: var(--font-size-17xl);
+  }
+  .philippe-b-powell-container {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .jacques-paula,
+  .venerd-12-luglio2 {
+    font-size: var(--font-size-17xl);
+  }
+  .aggiungiper-jacques {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .brazilian {
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .james-brandon-lewis,
+  .sabato-13-luglio {
+    font-size: var(--font-size-17xl);
+  }
+  .james-brandon-lewis-container {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .christian-sands-trio,
+  .marted-16-luglio {
+    font-size: var(--font-size-17xl);
+  }
+  .christian-sands-piano-container {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .francesca-tandoi-trio,
+  .sabato-20-luglio {
+    font-size: var(--font-size-17xl);
+  }
+  .francesca-tandoi-voce-container {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .gioved-25-luglio,
+  .judith-hill {
+    font-size: var(--font-size-17xl);
+  }
+  .judith-hill-voce-container {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .programma1 {
+    gap: var(--gap-7xl);
+  }
+  .home-page {
+    gap: var(--gap-8xl);
+  }
+}
